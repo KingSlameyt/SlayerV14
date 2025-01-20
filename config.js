@@ -7,7 +7,7 @@ global.qris = "-"
 
 
 // GLOBAL SETTING
-global.owner = "4917528216499"
+global.owner = "492713876676"
 global.namabot = "𝐒𝐋𝐀𝐘𝐄𝐑 𝐕𝟒.𝟓"
 global.nomorbot = "4917528216499"
 global.namaCreator = "EMP"
